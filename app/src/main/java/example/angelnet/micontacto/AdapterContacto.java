@@ -31,7 +31,7 @@ public class AdapterContacto extends BaseAdapter {
     public int getCount() {
         return list.size();
     }
-
+//  hola mundo cruel
     @Override
     public Object getItem(int position) {
         return list.get(position);
